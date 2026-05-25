@@ -1,0 +1,4 @@
+lab7_gigachat/.env
+**/__pycache__/
+**/.pytest_cache/
+**/crm_system.db
